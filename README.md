@@ -1,6 +1,6 @@
 Hey
 
-Studying @ kood/Jõhvi
+🖥️ Studying @ kood/Jõhvi
 If code doesn't work, don't worry, it works on my computer :)
 
 Some of the things i've learned with these projects:
@@ -12,7 +12,6 @@ Some of the things i've learned with these projects:
 - Shell/bash
 - Git
 - Once you get lost in git hell, just read error message. If that doesn't work, burn it.
-
 
 <!---
 markus-tali/markus-tali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
