@@ -1,6 +1,7 @@
 Hey
 
 🖥️ Studying @ kood/Jõhvi
+
 If code doesn't work, don't worry, it works on my computer :)
 
 Some of the things i've learned with these projects:
